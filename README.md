@@ -7,7 +7,7 @@ Olá! Eu sou o **Daniel Estrella Couto**.
 
 📌 Atuo há **2 anos com projetos práticos em Análise e Ciência de Dados**, desenvolvendo soluções com foco em extração de valor, apoio à decisão e automação inteligente.  
 📌 Tenho mais de **10 anos de experiência com dados aplicados à engenharia civil**, atuando com planejamento, indicadores, relatórios, integração de informações e otimização de processos.  
-📌 Possuo domínio técnico em **Python, SQL, Power BI, Looker e GCP (BigQuery, Data Lakes)**, com experiência em pipelines de dados, dashboards, análise exploratória e visualização interativa.
+📌 Possuo domínio técnico em **Python, SQL, Power BI, Looker e GCP (BigQuery, Data Lakes)**, com experiência em pipelines de dados, dashboards, análise exploratória e visualização interativa.    
 📌 Experiência em **análise de dados e estatística aplicada**, incluindo análise descritiva, correlação, testes de hipótese, intervalos de confiança e experimentos com **testes A/B**.    
 📌 Trabalho com **modelos supervisionados** (regressão, classificação com Random Forest, XGBoost, LightGBM e SVM) e técnicas de **validação cruzada, ajuste de hiperparâmetros e feature engineering**.  
 📌 Desenvolvo projetos com **Deep Learning**, utilizando redes neurais MLP, CNN, LSTM, Autoencoders, GANs, VAE e Transfer Learning.  
