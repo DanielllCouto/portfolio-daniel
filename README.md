@@ -1,10 +1,7 @@
 # 🎲 Muito bem-vindo(a) ao meu Portfólio de Análise e Ciência de Dados! 🎲
-
-> 🚧 **Desculpe a poeira!** Este portfólio está em construção e expansão constante — tudo isso para melhor atender suas curiosidades e mostrar, com dados, o que eu posso construir.
-
 ---
 
-## 👋 Sobre
+## Sobre
 
 Olá! Eu sou o **Daniel Estrella Couto**.
 
@@ -15,22 +12,17 @@ Olá! Eu sou o **Daniel Estrella Couto**.
 
 ---
 
-## 💡 Tech Stack
+## Tech Stack
 
 **Python** · **SQL** · **Power BI** · **Excel Avançado**  
 **Machine Learning** · **EDA** · **Cloud (GCP)** · **Git** · **Looker Studio**
 
 ---
 
-## 🚧 Este portfólio está em construção!
+## Projetos
+> 🚧 **Desculpe a poeira!** Este portfólio está em construção e expansão constante — projetos já finalizados estão sendo organizados e  adicionadoscmelhor atender suas curiosidades e mostrar, com dados, o que eu posso construir.
 
-Novos projetos já finalizados estão sendo organizados e serão adicionados em breve. Abaixo, você encontra o primeiro projeto publicado.
-
----
-
-## 📂 Projetos
-
-### 📌 TheLook Fintech – Data Analytics e Visualização Estratégica | BigQuery · Looker · SQL
+###  TheLook Fintech – Data Analytics e Visualização Estratégica | BigQuery · Looker · SQL
 
 **Objetivo do projeto:**  
 Fornecer respostas analíticas para questões críticas do time financeiro da fintech por meio de modelagem relacional, relatórios otimizados e dashboards estratégicos integrados à nuvem.
@@ -68,5 +60,5 @@ A TheLook Fintech precisava monitorar melhor seu fluxo de caixa, compreender o c
 
 ---
 
-👉 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/daniel-estrella-couto) ou explore outros repositórios aqui no [GitHub](https://github.com/DanielllCouto)
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/daniel-estrella-couto) ou explore outros repositórios aqui no [GitHub](https://github.com/DanielllCouto)
 
