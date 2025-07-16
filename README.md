@@ -5,10 +5,13 @@
 
 Olá! Eu sou o **Daniel Estrella Couto**.
 
-📌 Tenho mais de **12 anos de experiência com dados aplicados à Engenharia Civil e à gestão de projetos**, atuando com planejamento, controle e inteligência operacional.  
-📌 Há 2 anos venho utilizando **Python, SQL, Power BI, Excel e Machine Learning** para transformar dados em soluções estratégicas — seja em projetos pessoais, acadêmicos ou profissionais.  
-📌 Estou cursando MBA em **Data Science & Artificial Intelligence pela FIAP**, onde desenvolvo projetos práticos nas áreas de modelagem preditiva, IA aplicada e computação em nuvem.
-
+📌 Atuo há **2 anos com projetos práticos em Análise e Ciência de Dados**, desenvolvendo soluções com foco em extração de valor, apoio à decisão e automação inteligente.  
+📌 Tenho mais de **10 anos de experiência com dados aplicados à engenharia civil**, atuando com planejamento, indicadores, relatórios, integração de informações e otimização de processos.  
+📌 Possuo domínio técnico em **Python, SQL, Power BI, Looker e GCP (BigQuery, Data Lakes)**, com experiência em pipelines de dados, dashboards, análise exploratória e visualização interativa.
+📌 Experiência em **análise de dados e estatística aplicada**, incluindo análise descritiva, correlação, testes de hipótese, intervalos de confiança e experimentos com **testes A/B**.    
+📌 Trabalho com **modelos supervisionados** (regressão, classificação com Random Forest, XGBoost, LightGBM e SVM) e técnicas de **validação cruzada, ajuste de hiperparâmetros e feature engineering**.  
+📌 Desenvolvo projetos com **Deep Learning**, utilizando redes neurais MLP, CNN, LSTM, Autoencoders, GANs, VAE e Transfer Learning.  
+📌 Formação complementar pela **Alura** em **Python (análise de dados), Data Science, Machine Learning, SQL avançado, Power BI e Metodologias Ágeis**.
 
 ---
 
@@ -20,7 +23,7 @@ Olá! Eu sou o **Daniel Estrella Couto**.
 ---
 
 ## Projetos
-> 🚧 **Desculpe a poeira!** Este portfólio está em construção e expansão constante — projetos já finalizados estão sendo organizados e  adicionadoscmelhor atender suas curiosidades e mostrar, com dados, o que eu posso construir.
+> 🚧 **Desculpe a poeira!** Este portfólio está em construção e expansão constante — projetos já finalizados estão sendo organizados e adicionados para melhor atender suas curiosidades e mostrar, com dados, o que eu posso construir.
 
 ###  TheLook Fintech – Data Analytics e Visualização Estratégica | BigQuery · Looker · SQL
 
