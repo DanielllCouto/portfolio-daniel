@@ -25,12 +25,12 @@ Olá! Eu sou o **Daniel Estrella Couto**.
 
 ## Tech Stack
 
-Data & Analytics: Python · SQL · Pandas · NumPy · Scikit-learn · Excel Avançado
-Machine Learning: XGBoost · LightGBM · CatBoost · Random Forest · SVM
-MLOps & Automação: MLflow · DagsHub · DVC · GitHub Actions · Pytest
-Cloud & Infrastructure: AWS (Lambda, API Gateway, ECR, S3, CloudWatch) · GCP (BigQuery, Data Lakes) · Docker
-Visualização & BI: Power BI · Looker Studio · Matplotlib · Seaborn
-Versionamento & Colaboração: Git · GitHub
+Data & Analytics: Python · SQL · Pandas · NumPy · Scikit-learn · Excel Avançado  
+Machine Learning: XGBoost · LightGBM · CatBoost · Random Forest · SVM  
+MLOps & Automação: MLflow · DagsHub · DVC · GitHub Actions · Pytest  
+Cloud & Infrastructure: AWS (Lambda, API Gateway, ECR, S3, CloudWatch) · GCP (BigQuery, Data Lakes) · Docker  
+Visualização & BI: Power BI · Looker Studio · Matplotlib · Seaborn  
+Versionamento & Colaboração: Git · GitHub  
 
 ---
 
